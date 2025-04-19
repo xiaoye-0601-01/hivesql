@@ -1,0 +1,2 @@
+# hivesql
+sql语法
